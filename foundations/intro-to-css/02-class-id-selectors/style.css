@@ -1,0 +1,22 @@
+p{
+    background-color: rgba(231, 116, 116, 0.712);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.adjust-font-size {
+    font-size: 24px;
+  }
+  
+  .another-class {
+    color:black;
+  }
+  
+
+.second{
+    font-size: 36px;
+    color: rgb(0, 0, 255);
+}
+.fourth{
+   background-color: lightgreen;
+   font-size: 24px;
+   font-weight: bold; 
+}
